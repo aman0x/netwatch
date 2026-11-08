@@ -1,0 +1,6 @@
+*.log
+known.txt
+lastrun.txt
+config.json
+checkup-report.txt
+*.bak*
