@@ -48,11 +48,11 @@ Example report:
 ```text
 SOME RISK: 3 thing(s) to look at, nothing clearly malicious.
 
-[1] AMBER: You ran a downloaded installer: Setup.exe (2026-10-17 13:45)
+[1] AMBER: You ran a downloaded installer: Setup.exe (2026-01-12 21:07)
     Path: E:\Some_Game_Archive_full\Setup.exe. The file is gone now (stealers often delete themselves), so its maker cannot be checked.
     What to do: If it came from a crack, piracy, Telegram or Discord link, treat it as a password stealer: ...
 
-[2] AMBER: Your browsers store passwords for 51 sites
+[2] AMBER: Your browsers store passwords for 34 sites
     What to do: Move them to a password manager (e.g. Bitwarden), then delete them from the browser ...
 
 [3] AMBER: Windows/Office activated by a pirated KMS activator
